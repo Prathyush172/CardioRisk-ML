@@ -84,7 +84,7 @@ Leakage-Safe Preprocessing
    │
    ├───────────────┐
    ▼               ▼
-Logistic          XGBoost
+Logistic          Random Forest
 Regression
    │               │
    └───────┬───────┘
